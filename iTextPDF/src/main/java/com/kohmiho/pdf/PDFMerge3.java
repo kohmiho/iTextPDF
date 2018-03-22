@@ -1,4 +1,4 @@
-package iTextPDF;
+package com.kohmiho.pdf;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -13,7 +13,7 @@ import com.itextpdf.text.pdf.PdfCopy;
 import com.itextpdf.text.pdf.PdfReader;
 import com.itextpdf.text.pdf.PdfSmartCopy;
 
-public class PDFMerge {
+public class PDFMerge3 {
 
 	public static final String SHARED_DRIVE = "/run/media/oracle/Seagate Backup Plus Drive";
 

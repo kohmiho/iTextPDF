@@ -1,4 +1,4 @@
-package iTextPDF;
+package com.kohmiho.pdf;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
