@@ -1,0 +1,36 @@
+2018-03-23 00:51:17 INFO  PDFMerge1:38 - Start PDFMerge1 main
+2018-03-23 00:51:17 DEBUG PDFMerge1:42 - start loadAppConfig(appConfig)
+2018-03-23 00:51:17 DEBUG PDFMerge1:44 - end loadAppConfig(appConfig)
+2018-03-23 00:51:17 DEBUG PDFMerge1:46 - start open source folder
+2018-03-23 00:51:17 DEBUG PDFMerge1:49 - end open source folder
+2018-03-23 00:51:17 DEBUG PDFMerge1:51 - start get PDF folder or file
+2018-03-23 00:51:17 DEBUG PDFMerge1:53 - end get PDF folder or file
+2018-03-23 00:51:17 DEBUG PDFMerge1:55 - start filter PDF file only and sort by file name
+2018-03-23 00:52:36 INFO  PDFMerge1:38 - Start PDFMerge1 main
+2018-03-23 00:52:36 DEBUG PDFMerge1:42 - start loadAppConfig(appConfig)
+2018-03-23 00:52:36 DEBUG PDFMerge1:44 - end loadAppConfig(appConfig)
+2018-03-23 00:52:36 DEBUG PDFMerge1:46 - start open source folder
+2018-03-23 00:52:36 DEBUG PDFMerge1:49 - end open source folder
+2018-03-23 00:52:36 DEBUG PDFMerge1:51 - start get PDF folder or file
+2018-03-23 00:52:36 DEBUG PDFMerge1:53 - end get PDF folder or file: null
+2018-03-23 00:52:36 DEBUG PDFMerge1:57 - start filter PDF file only and sort by file name
+2018-03-23 00:53:35 INFO  PDFMerge1:38 - Start PDFMerge1 main
+2018-03-23 00:53:35 DEBUG PDFMerge1:42 - start loadAppConfig(appConfig)
+2018-03-23 00:53:35 DEBUG PDFMerge1:44 - end loadAppConfig(appConfig)
+2018-03-23 00:53:35 DEBUG PDFMerge1:46 - start open source folder
+2018-03-23 00:53:35 DEBUG PDFMerge1:49 - end open source folder
+2018-03-23 00:53:35 DEBUG PDFMerge1:51 - start get PDF folder or file
+2018-03-23 00:53:35 DEBUG PDFMerge1:53 - end get PDF folder or file: null
+2018-03-23 00:53:35 INFO  PDFMerge1:56 - These is no PDF files in souce folder
+2018-03-23 00:53:35 INFO  PDFMerge1:57 - Exit PDFMerge1 main
+2018-03-23 01:01:13 INFO  PDFMerge1:38 - Start PDFMerge1 main
+2018-03-23 01:01:13 DEBUG PDFMerge1:42 - start loadAppConfig(appConfig)
+2018-03-23 01:01:13 INFO  PDFMerge1:123 - Start load config from PDFMerger.properties
+2018-03-23 01:01:13 INFO  PDFMerge1:129 - End load config from PDFMerger.properties
+2018-03-23 01:01:13 DEBUG PDFMerge1:44 - end loadAppConfig(appConfig)
+2018-03-23 01:01:13 DEBUG PDFMerge1:46 - start open source folder
+2018-03-23 01:01:13 DEBUG PDFMerge1:49 - end open source folder
+2018-03-23 01:01:13 DEBUG PDFMerge1:51 - start get PDF folder or file
+2018-03-23 01:01:14 DEBUG PDFMerge1:53 - end get PDF folder or file: null
+2018-03-23 01:01:14 INFO  PDFMerge1:56 - These is no PDF files in souce folder
+2018-03-23 01:01:14 INFO  PDFMerge1:57 - Exit PDFMerge1 main
